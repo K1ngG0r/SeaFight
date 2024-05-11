@@ -1,0 +1,2 @@
+E:\c++\SeaFight\x64\Debug\SeaFight.exe
+D:\c++\SeaFight\x64\Debug\SeaFight.exe

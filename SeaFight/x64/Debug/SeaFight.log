@@ -1,0 +1,3 @@
+﻿  SeaFight.cpp
+E:\c++\SeaFight\SeaFight.cpp(581,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SeaFight.vcxproj -> E:\c++\SeaFight\x64\Debug\SeaFight.exe
